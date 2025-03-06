@@ -17,4 +17,6 @@ PROPOSED SOLUTION:
 
 2.Remote Mobility for
 Efficient Collection: Equip the system with a remote- controlled rover to reach various campus areas, including hard-to- access and high-traffic zones. This mobility enhances the flexibility of waste collection, ensuring that waste segregation is consistent across all campus locations.
+
+
 <img width="520" alt="Screenshot 2025-03-06 at 9 25 48 PM" src="https://github.com/user-attachments/assets/219625a4-90c5-473d-9bd6-e6bde1ed98eb" />
